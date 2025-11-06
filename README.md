@@ -4,7 +4,7 @@
 
 # AIM:
 To draw UML diagram for ONLINE EXAM REGISTRATION SYSTEM
-# SRS (Procedure):
+# Problem Statement:
 The manual exam registration process is time-consuming, prone to errors, and involves heavy paperwork.
 Students need to fill physical forms, stand in queues for payments, and wait for confirmation.
 The proposed online system solves these issues by providing an automated, user-friendly, and secure platform for both students and administrators.
